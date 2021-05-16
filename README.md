@@ -1,7 +1,11 @@
 # helloe_fistapp
 
 A new Flutter project.
-
+1.กดเพิ่ม-ลด จำนวนตัวเลข เหมือน ตัวอย่าง flutter ตอน create project <br/>
+2.build Apk <br/>
+3.change Icon App <br/>
+4.Change name App <br/>
+5.การใช้ FloatingActionButton <br/>
 ## Getting Started
 
 This project is a starting point for a Flutter application.
